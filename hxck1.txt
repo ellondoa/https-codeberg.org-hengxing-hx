@@ -17,8 +17,8 @@
       "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json"
     },
     {
-      "name": "💗春盈天下",
-      "url": "http://wp.anxwl.cn/down.php/245a89be183aeddb85d1501ed5eb3260.json"
+      "name": "🐦乌鸦不太黑🐦",
+      "url": "https://d.kstore.space/download/4690/公益/烂番茄.json"
     },
     {
       "name": "🐈影音天堂4k",
