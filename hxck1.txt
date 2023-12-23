@@ -5,8 +5,8 @@
       "url": "https://codeberg.org/hengxing/hx/raw/branch/main/hxzx1.txt"
     },
     {
-      "name": "🚖夜猫子新",
-      "url": "http://sinopacifichk.com/box/56.txt"
+      "name": "💕全部4k",
+      "url": "https://codeberg.org/hengxing/hx/raw/branch/main/qb4k.txt"
     },
     {
       "name": "⭐️云星日记",
