@@ -30,20 +30,19 @@
   "sites": [
     {
       "key": "搜索┃豆瓣js",
-      "name": "💕豆瓣┃公众号:业余打发。",
+      "name": "💕豆瓣┃公众号:恒星资料网",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
     },
     {
-      "key": "應用商店",
-      "name": "💕业余-应用商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "http://111.67.195.139/yydf/lib/market.json",
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/fm.jar"
+    "key": "南坊",
+          "name": "💕┃南坊┃影视",
+                "type": 3,
+                      "api": "csp_AppMao",
+                            "searchable": 1,
+                                  "quickSearch": 1,
+                                        "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
     },
     {
       "key": "Wogg",
@@ -70,37 +69,18 @@
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://wobge.run.goorm.io"
     },
     {
-      "key": "业余采集A",
-      "name": "💕 业余云自营 ",
-      "type": 1,
-      "api": "http://111.67.195.139/api.php/provide/vod/?ac=list",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺"
-      ]
+  "key": "虎虎",
+        "name": "🐯┃虎虎┃影视",
+              "type": 3,
+                    "api": "csp_Panda",
+                          "ext": "http://我不是.肥猫.live/json/虎虎.json"
     },
     {
-      "key": "业余采集B",
-      "name": "💕业余私自营 ",
-      "type": 1,
-      "api": "http://yydf.kele.plus/api.php/provide/vod/?ac=list",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺",
-        "体育赛事"
-      ]
+       "key": "影探",
+             "name": " 💕┃影探4K┃影视",
+                   "type": 3,
+                         "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+                               "ext": "https://d.kstore.space/download/6296/js/yt.js"
     },
     {
       "key": "NanGua",
