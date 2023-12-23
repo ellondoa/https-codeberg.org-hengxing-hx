@@ -6,31 +6,31 @@
     },
     {
       "name": "🚖夜猫子新",
-      "url": "https://download.kstore.space/download/3313/app/ymzn"
+      "url": "http://sinopacifichk.com/box/56.txt"
     },
     {
-      "name": "🍉饭太硬",
-      "url": "http://饭太硬.top/tv"
+      "name": "⭐️云星日记",
+      "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
     },
     {
-      "name": "💗时光机",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjm.json"
+      "name": "💗心魔线路",
+      "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json"
     },
     {
-      "name": "💗锦哥",
-      "url": "http://jin.锦哥哥.love"
+      "name": "💗春盈天下",
+      "url": "http://wp.anxwl.cn/down.php/245a89be183aeddb85d1501ed5eb3260.json"
     },
     {
       "name": "🐈影音天堂4k",
       "url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json"
     },
     {
-      "name": "👍肥猫4k",
-      "url": "http://我不是.肥猫.love:63/接口禁止贩卖"
+      "name": "🚙运输车接口",
+      "url": "http://tvkj.top/DC/ysc/tvkj/svip.json"
     },
     {
-      "name": "🚡阿里精品",
-      "url": "http://yydsys.top/duo/ali"
+      "name": "🚡荷城茶锈",
+      "url": "http://rihou.vip:88/荷城茶秀"
     },
     {
       "name": "🚖影探4k",
@@ -46,19 +46,19 @@
     },
     {
       "name": "✍️阿里专线",
-      "url": "https://yydsys.top/duo/ali"
+      "url": "http://111.67.195.139/bd/JS/jsjk.json"
     },
     {
-      "name": "💔温酒待侯",
-      "url": "https://download.kstore.space/download/4907/jcsq/fx.json"
+      "name": "💔壹梦在线",
+      "url": "http://qrh.yimkj.cn/ym/壹梦.json"
     },
     {
-      "name": "🧡业余主线",
-      "url": "http://111.67.195.139/yydf/yyff.json"
+      "name": "🍎鼎盛小苹果接口",
+      "url": "http://61.183.41.92:588/%E5%BD%B1%E8%A7%86/%E9%BC%8E%E7%9B%9BMAX.json"
     },
     {
-      "name": "💙群新荟萃",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"
+      "name": "🐟摸鱼接口",
+      "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json"
     },
     {
       "name": "👅非凡",
