@@ -57,16 +57,14 @@
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$https://wogg.xyz/"
     },
     {
-      "key": "Wobg",
-      "name": "💕阿里|玩偶表哥",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/pg.jar",
-      "api": "csp_Wobg",
-      "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt$$$http://wobge.run.goorm.io"
+    "key": "玩偶哥哥",
+          "name": "👽玩偶哥哥┃已修复断流",
+                "type": 3,
+                      "api": "csp_WoGG",
+                            "searchable": 1,
+                                  "quickSearch": 1,
+                                        "changeable": 0,
+                                              "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
   "key": "虎虎",
