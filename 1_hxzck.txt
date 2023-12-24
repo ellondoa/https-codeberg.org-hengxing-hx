@@ -1,0 +1,6 @@
+{
+"storeHouse": [
+{"sourceName":"💕恒星资料网1💕","sourceUrl":"https://codeberg.org/hengxing/hx/raw/branch/main/xmy1.txt"},
+{"sourceName":"💕恒星资料网2💕","sourceUrl":"https://codeberg.org/hengxing/hx/raw/branch/main/1_myw2.txt"}
+]}
+
